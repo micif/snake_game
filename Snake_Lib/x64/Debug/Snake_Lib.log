@@ -1,0 +1,4 @@
+﻿  snake.c
+E:\C\SnakeGame\Snake_Lib\snake.c(24,1): warning C4005: 'WALLS_COLOR': macro redefinition
+E:\C\SnakeGame\Snake_Lib\snake.h(8,1): message : see previous definition of 'WALLS_COLOR'
+  Snake_Lib.vcxproj -> E:\C\SnakeGame\x64\Debug\Snake_Lib.lib
